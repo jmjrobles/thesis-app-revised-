@@ -1,10 +1,10 @@
 ## How to Use This Repository
 
 1. Clone this repository to your local machine(Navigate to a new folder and open Git Bash):
-   `git clone <repo-url>` repo url is the url on the github website
+        Run `git clone <repo-url>` repo url is the url on the github website
 
 2. Navigate to the project folder:
-   `cd <project-folder>` navigate to the main root of the project <pipeline-monitoring-app>
+   `cd <project-folder>` navigate to the main root of the project `pipeline-monitoring-app`
 
 3. Install dependencies:
    `npm install`
